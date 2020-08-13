@@ -1,7 +1,8 @@
 import React from 'react'
 import './style.css'
 import Spon from './images/spont.png'
-export default function index() {
+
+export default function index(props) {
     return (
         <div className="container d-flex flex-column align-items-center">
             <section className="row-md-12">
