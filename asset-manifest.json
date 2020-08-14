@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/samugrose/sams-react-portfoliostatic/css/main.96092ae9.chunk.css",
+    "main.js": "/samugrose/sams-react-portfoliostatic/js/main.a8ab9574.chunk.js",
+    "main.js.map": "/samugrose/sams-react-portfoliostatic/js/main.a8ab9574.chunk.js.map",
+    "runtime-main.js": "/samugrose/sams-react-portfoliostatic/js/runtime-main.b3fe3a20.js",
+    "runtime-main.js.map": "/samugrose/sams-react-portfoliostatic/js/runtime-main.b3fe3a20.js.map",
+    "static/js/2.2a467ccf.chunk.js": "/samugrose/sams-react-portfoliostatic/js/2.2a467ccf.chunk.js",
+    "static/js/2.2a467ccf.chunk.js.map": "/samugrose/sams-react-portfoliostatic/js/2.2a467ccf.chunk.js.map",
+    "index.html": "/samugrose/sams-react-portfolioindex.html",
+    "precache-manifest.2e12431215babf1cfe90f8250a1eac32.js": "/samugrose/sams-react-portfolioprecache-manifest.2e12431215babf1cfe90f8250a1eac32.js",
+    "service-worker.js": "/samugrose/sams-react-portfolioservice-worker.js",
+    "static/css/main.96092ae9.chunk.css.map": "/samugrose/sams-react-portfoliostatic/css/main.96092ae9.chunk.css.map",
+    "static/js/2.2a467ccf.chunk.js.LICENSE.txt": "/samugrose/sams-react-portfoliostatic/js/2.2a467ccf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/samugrose/sams-react-portfoliostatic/media/logo.5d5d9eef.svg",
+    "static/media/sams-headshot.jpg": "/samugrose/sams-react-portfoliostatic/media/sams-headshot.ccbf3b4c.jpg",
+    "static/media/spont.png": "/samugrose/sams-react-portfoliostatic/media/spont.314fc437.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3fe3a20.js",
+    "static/js/2.2a467ccf.chunk.js",
+    "static/css/main.96092ae9.chunk.css",
+    "static/js/main.a8ab9574.chunk.js"
+  ]
+}
